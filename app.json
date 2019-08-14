@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://www.heroku.com/python"
+    }
+  ],
+  "description": "LE Utility built for PEs",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "LE-Utility",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
